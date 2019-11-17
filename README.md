@@ -3,7 +3,7 @@ Basic hand gestures recognition code
 
 
 
-used cosine rule to calculate angles detected in contours 
+Used cosine rule to calculate angles detected in contours 
 
 ![alt text](http://simulation-math.com/VideoTrig/LawOfCosines.png)
 
