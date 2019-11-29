@@ -1,4 +1,4 @@
-# hand-gesture-recognition-
+# Hand-gesture-recognition
 Basic hand gestures recognition code
 
 
